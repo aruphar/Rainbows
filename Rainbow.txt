@@ -7,3 +7,4 @@ Orange
 Red
 Brown
 These are the colours of the rainbow
+Actually Brown is not a colour that is present in the rainbow
